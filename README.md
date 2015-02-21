@@ -17,7 +17,7 @@ This project intends to demonstrate the importance and the ability to collect, w
  - Appropriately labels the data set with descriptive variable names. 
  - finally creates a second independent tidy data set with the average of each variable for each activity and each subject.
 
-#### Also in the repo will be necessary to add the follow documentation
+#### Also in the repo should present the following documentation
  
   - The R script run_analysis containing all the information 
   - A link to a Github repository with your script for performing the analysis 
