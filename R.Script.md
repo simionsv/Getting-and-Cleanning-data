@@ -16,7 +16,7 @@ X_test <- read.table("test/X_test.txt", quote="\"")
 
 library(dplyr)
 
-#Analysis of the 70% of the Volunteer select for generating the training data
+#####Analysis of the 70% of the Volunteer select for generating the training data
 
 colnames(activity_labels)<- c("V1","Activity")
 
