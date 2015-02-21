@@ -70,4 +70,5 @@ run_analysis<- (run_analysis1%>%
                         summarise_each(funs( mean)))
 
 
+write.table(run_analysis,"./run_analysis.txt",sep=" ",row.name=FALSE) 
 
