@@ -4,7 +4,7 @@
 
 ### Overview
 
-This project intends to demonstrate the importance and the ability to collect, work with and clean a data set. The goal is to prepare a tidy data that cam be use for later analysis. The data was collected from the web site that can be found in the following address https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+This project intends to demonstrate the importance and the ability to collect, work with and clean a data set. The goal is to prepare a tidy data that can be use for later analysis. The data was collected from the web site that can be found in the following address https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
   
 ### Project Summary
@@ -19,9 +19,9 @@ This project intends to demonstrate the importance and the ability to collect, w
 
 #### Also in the repo will be necessary to add the follow documentation
  
-1) the R script run_analysis containing all the information 
-2) a link to a Github repository with your script for performing the analysis 
-3) a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data called CodeBook.md. 
-You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected. 
+1) The R script run_analysis containing all the information 
+2) A link to a Github repository with your script for performing the analysis 
+3) A code book that describes the variables, the data, and any transformations or work that was performed to clean up the data called CodeBook.md. 
+4) A README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected. 
 
 
