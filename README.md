@@ -9,7 +9,7 @@ This project intends to demonstrate the importance and the ability to collect, w
   
 ### Project Summary
 
-## Develop a R script called run_analysis.R that does the following. 
+#### Develop a R script called run_analysis.R that does the following. 
 
  - Merges the training and the test sets to create one data set.
  - Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -17,7 +17,7 @@ This project intends to demonstrate the importance and the ability to collect, w
  - Appropriately labels the data set with descriptive variable names. 
  - finally creates a second independent tidy data set with the average of each variable for each activity and each subject.
 
-## Also in the repo will be necessary to add the follow documentation
+#### Also in the repo will be necessary to add the follow documentation
  
 1) the R script run_analysis containing all the information 
 2) a link to a Github repository with your script for performing the analysis 
