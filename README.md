@@ -19,9 +19,9 @@ This project intends to demonstrate the importance and the ability to collect, w
 
 #### Also in the repo will be necessary to add the follow documentation
  
-  1) The R script run_analysis containing all the information 
-  2) A link to a Github repository with your script for performing the analysis 
-  3) A code book that describes the variables, the data, and any transformations or work that was performed to clean up the data called CodeBook.md. 
-  4) A README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected. 
+  - The R script run_analysis containing all the information 
+  - A link to a Github repository with your script for performing the analysis 
+  - A code book that describes the variables, the data, and any transformations or work that was performed to clean up the data called CodeBook.md. 
+  - A README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected. 
 
 
