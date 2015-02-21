@@ -63,3 +63,7 @@ test4<- select(test3,contains("subject"), contains("Activity"), contains("mean")
 run_analysis_r<- rbind(train4,test4)
 
 #Summarizing the data
+
+run_analysis<- (run_analysis_r%>%
+                group_by(subject,Activity) %>%
+                 summarise_each(funs( mean)))
